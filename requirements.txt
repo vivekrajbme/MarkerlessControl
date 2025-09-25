@@ -1,0 +1,8 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pathlib
+# Add these dependencies from dataCollectionAmpConcise
+# ximu3_reader (custom module)
+# fivedt_direct (custom module)
